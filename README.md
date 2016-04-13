@@ -1,4 +1,4 @@
-  data for the paper entitled "Early warning signals of financial crises with multi-scale quantile regressions of Log-Periodic Power Law Singularities"
+  Data for the paper entitled "Early warning signals of financial crises with multi-scale quantile regressions of Log-Periodic Power Law Singularities"
   
   List of the 16 historical bubbles
 
