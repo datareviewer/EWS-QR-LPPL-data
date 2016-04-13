@@ -1,4 +1,5 @@
-
+  data for the paper entitled "Early warning signals of financial crises with multi-scale quantile regressions of Log-Periodic Power Law Singularities"
+  
   List of the 16 historical bubbles
 
   File name           &    Asset \& Year of crash   &         Data range	    &      Range of $t_{end}$
@@ -18,13 +19,21 @@
    hongkong.csv       &	Hong Kong 1987/1994/1997    & 	1980.01.02-1999.12.31 &   1982.11.16-1999.12.31\
    
    sp5002007.csv      &	S\&P 500 2007               & 	2004.01.01-2009.12.31 &   2006.11.15-2009.12.31\
+   
    sugar.csv          & Sugar prices                & 	2002.01.01-2013.12.31 & 	2004.11.15-2013.12.31\
+   
    brentoil2008.csv   &	Brent Oil 2008              & 	1990.01.01-2015.04.16 & 	1992.11.13-2015.04.16\
+   
    djia1929.csv       &	DJIA 1929                   & 	1926.01.02-1930.12.31 & 	1928.07.07-1930.12.31\
+   
    nasdaq2000.csv     &	Nasdaq Composite Index 2000 & 	1993.01.01-2002.12.31 & 	1995.11.16-2002.12.31\
+   
    ssec.csv           &	SSEC 2007/2009              & 	2004.01.01-2014.12.31 &   2006.11.15-2014.12.31\
+   
    szsc.csv           & SZSC 2007/2009              & 	2004.01.01-2014.12.31 & 	2006.11.15-2014.12.31\
+   
    hengseng.csv       &	Hong Kong 2007              & 	2000.01.03-2015.04.10 &   2003.01.17-2015.04.10\
+   
    ssec2015.csv       & SSEC 2015                   & 	2011.02.23-2015.05.12 &   2014.01.07-2015.05.12\
    
-  the data for the paper entitled "Early warning signals of financial crises with multi-scale quantile regressions of Log-Periodic Power Law Singularities"
+  
